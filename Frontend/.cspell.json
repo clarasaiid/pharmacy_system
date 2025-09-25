@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Mahmoud",
+    "Mariam",
+    "Panadol",
+    "Augmentin",
+    "Antasida",
+    "Atorvastatin",
+    "Lisinopril",
+    "Oxycodone"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "package-lock.json",
+    "yarn.lock"
+  ]
+} 
